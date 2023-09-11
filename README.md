@@ -2,7 +2,7 @@ Cryptography is a big part of cyber! To better gain a grasp on how AES, one of t
 
 Due to the complex nature of this project, I am working on this in sections. 
 
-Work Completed so Far: 
+WORK COMPLETED THUS FAR: 
 
 Header Includes: The program begins with several #include statements, importing the necessary C++ libraries for input/output, string manipulation, random number generation, and data structures like vectors.
 
@@ -30,6 +30,6 @@ substituteByte() is used to perform S-box substitution on each byte in the rotat
 
 applyRoundConstant() applies the round constant to the words.
 
-
-Next sections that will worked on: 
+WORK TO BE COMPELTED:
+Next sections that will worked on include- 
 Encryption Rounds: AES encryption consists of multiple rounds, each of which applies a set of transformations to the data--> implement following functions including the SubBytes, ShiftRows, MixColumns, and AddRoundKey transformations.
